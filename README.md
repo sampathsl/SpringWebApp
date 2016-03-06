@@ -3,7 +3,7 @@
 
 # Tools
     Java 8
-    Tomcat 8
+    Tomcat 8 / Wildfly 10
     Maven 3
 
 # Working IDEs
